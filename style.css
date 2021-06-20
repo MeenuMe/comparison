@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(to right top, #ffffff, #f6f0ff, #f2e0ff, #f2ceff, #f6bbfc, #f4adf8, #f19ff4, #ef90f0, #e186f3, #d17cf6, #bd74fb, #a66dff);
+    font-size: 23px;
+}
+
+.btn-warning{
+    width: 75%;
+    font-size: 75px;
+    color: turquoise;
+    background-color: pink;
+}
+
+img{
+    width: 15%;
+    height: 20%;
+}
+
+.magesticdiv{
+    background-image: linear-gradient(to right top, #ff78c5, #ee6ace, #d85fd9, #ba59e5, #9057f1, #7f55f6, #6a54fa, #4e53ff, #6a4dff, #8245ff, #983aff, #ac2aff);
+    border: 2px solid lightblue;
+    border-radius: 5%;
+    padding: 10px;
+}
+
+.result{
+    font-family: cursive;
+    border: 2px solid lightblue;
+    border-radius: 30%;
+    padding: 10px;
+    background-color: skyblue;;
+    margin-bottom: 20px;
+}
